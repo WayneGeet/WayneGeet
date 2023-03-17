@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###About Me
 
-I went to school in Dedan Kimathi University to study GIS and Remote Sensing but I had eyes for someone else, Web Development. So I am a GIS and Remote Sensing expert by profession and web developer by passion. Technologies such as Mapbox and Leaflet Js have however helped me to reap the benefits of both worlds, where I can create stunning websites while also add a spatial element to it using  interactive maps.
+I went to school in Dedan Kimathi University to study GIS and Remote Sensing but I had eyes for something else, Web Development. So I am a GIS and Remote Sensing expert by profession and web developer by passion. Technologies such as Mapbox and Leaflet Js have however helped me to reap the benefits of both worlds, where I can create stunning websites while also add a spatial element to it using  interactive maps.
 I also write remote sensing scripts with Google Earth Engine platform.
 
 ###What Do I Do For Fun?
