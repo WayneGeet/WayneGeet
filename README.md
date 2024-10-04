@@ -18,9 +18,16 @@ Here are some ideas to get you started:
 ###About Me
 
 A Dedan Kimathi graduate.
-I am a GIS and Remote Sensing expert by profession and a web developer by passion. Technologies such as Mapbox and Google Maps have however helped me reap the best of both worlds, where I can create stunning websites while also add a spatial element to it using interactive maps.
-I also write remote sensing scripts with Google Earth Engine platform.
-Currently, I am working on a fullstack project that will run on drf, nuxt 3 js and of course, mapbox (nuxt-mapbox)
+Hi there! I'm a professional GIS and Remote Sensing expert with a deep love for web development. I thrive at the intersection of geospatial analysis and interactive web technologies, bringing spatial insights to life in the digital world.
+
+🚀 What I Do:
+
+🔥Crafting stunning websites with Mapbox and Google Maps, adding spatial elements to create immersive user experiences.
+🔥Developing remote sensing scripts with the Google Earth Engine platform to analyze and visualize environmental data.
+🔥Building robust full-stack solutions with Django Rest Framework (DRF), Nuxt 3, and Nuxt-Mapbox, leveraging my passion for web development and GIS.
+🔥I’m always excited to explore new technologies and ideas that bridge the gap between the web and geospatial insights. 
+
+Let's create something amazing together! ✨
 
 ###What Do I Do For Fun?
 
