@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###About Me
 
-A Dedan Kimathi graduate.
+A Dedan Kimathi University graduate.
 Hi there! I'm a professional GIS and Remote Sensing expert with a deep love for web development. I thrive at the intersection of geospatial analysis and interactive web technologies, bringing spatial insights to life in the digital world.
 
 🚀 What I Do:
